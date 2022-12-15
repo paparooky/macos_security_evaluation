@@ -1,0 +1,10 @@
+rules/os/os_newsyslog_files_owner_group_configure.yaml:34:  - manual
+rules/os/os_ess_installed.yaml:36:  - manual
+rules/os/os_anti_virus_installed.yaml:28:  - manual
+rules/os/os_asl_log_files_permissions_configure.yaml:32:  - manual
+rules/os/os_filevault_authorized_users.yaml:32:  - manual
+rules/os/os_asl_log_files_owner_group_configure.yaml:34:  - manual
+rules/os/os_certificate_authority_trust.yaml:34:  - manual
+rules/os/os_newsyslog_files_permissions_configure.yaml:33:  - manual
+rules/pwpolicy/pwpolicy_temporary_or_emergency_accounts_disable.yaml:77:  - manual
+rules/sysprefs/sysprefs_wifi_disable.yaml:53:  - manual

@@ -1,0 +1,2 @@
+hostname,host_ip,host_fqdn,start,end,duration(seconds)
+192.168.173.175,192.168.173.175,,"Thu, 06 Oct 2022 16:17:12 GMT","Thu, 06 Oct 2022 16:20:08 GMT",176

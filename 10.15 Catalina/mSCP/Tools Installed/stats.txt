@@ -1,0 +1,25 @@
+[H[2J~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+        M A I N - M E N U
+  macOS Security Compliance Tool
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Last compliance scan: Sat Oct 22 13:51:43 PDT 2022
+
+1. View Last Compliance Report
+2. Run New Compliance Scan
+3. Run Commands to remediate non-compliant settings
+4. Exit
+
+Number of tests passed: [32m10[39m
+Number of test FAILED: [31m79[39m
+Number of exempt rules: [33m0[39m
+You are [33m11.24%[39m percent compliant!
+[H[2J~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+        M A I N - M E N U
+  macOS Security Compliance Tool
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Last compliance scan: Sat Oct 22 13:51:43 PDT 2022
+
+1. View Last Compliance Report
+2. Run New Compliance Scan
+3. Run Commands to remediate non-compliant settings
+4. Exit
