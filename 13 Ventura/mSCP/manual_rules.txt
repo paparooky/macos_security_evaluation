@@ -1,0 +1,6 @@
+rules/system_settings/system_settings_wifi_disable.yaml:48:  - manual 
+rules/os/os_ess_installed.yaml:28:  - manual
+rules/os/os_filevault_authorized_users.yaml:33:  - manual
+rules/os/os_recovery_lock_enable.yaml:40:  - manual
+rules/os/os_certificate_authority_trust.yaml:30:  - manual
+rules/pwpolicy/pwpolicy_temporary_or_emergency_accounts_disable.yaml:77:  - manual

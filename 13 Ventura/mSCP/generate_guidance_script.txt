@@ -1,0 +1,50 @@
+Profile YAML: build/baselines/cis_lvl2.yaml
+Output path: /Users/boone/macos_security/build/cis_lvl2/cis_lvl2.adoc
+Generating configuration profiles...
+Configuration profile written to /Users/boone/macos_security/build/cis_lvl2/mobileconfigs/unsigned/com.apple.applicationaccess.mobileconfig
+Settings plist written to /Users/boone/macos_security/build/cis_lvl2/mobileconfigs/preferences/com.apple.applicationaccess.plist
+Configuration profile written to /Users/boone/macos_security/build/cis_lvl2/mobileconfigs/unsigned/com.apple.mDNSResponder.mobileconfig
+Settings plist written to /Users/boone/macos_security/build/cis_lvl2/mobileconfigs/preferences/com.apple.mDNSResponder.plist
+Configuration profile written to /Users/boone/macos_security/build/cis_lvl2/mobileconfigs/unsigned/com.apple.SoftwareUpdate.mobileconfig
+Settings plist written to /Users/boone/macos_security/build/cis_lvl2/mobileconfigs/preferences/com.apple.SoftwareUpdate.plist
+Configuration profile written to /Users/boone/macos_security/build/cis_lvl2/mobileconfigs/unsigned/com.apple.security.firewall.mobileconfig
+Settings plist written to /Users/boone/macos_security/build/cis_lvl2/mobileconfigs/preferences/com.apple.security.firewall.plist
+Configuration profile written to /Users/boone/macos_security/build/cis_lvl2/mobileconfigs/unsigned/com.apple.systempolicy.control.mobileconfig
+Settings plist written to /Users/boone/macos_security/build/cis_lvl2/mobileconfigs/preferences/com.apple.systempolicy.control.plist
+Configuration profile written to /Users/boone/macos_security/build/cis_lvl2/mobileconfigs/unsigned/com.apple.MCX.mobileconfig
+Settings plist written to /Users/boone/macos_security/build/cis_lvl2/mobileconfigs/preferences/com.apple.MCX.plist
+Configuration profile written to /Users/boone/macos_security/build/cis_lvl2/mobileconfigs/unsigned/com.apple.Safari.mobileconfig
+Settings plist written to /Users/boone/macos_security/build/cis_lvl2/mobileconfigs/preferences/com.apple.Safari.plist
+Configuration profile written to /Users/boone/macos_security/build/cis_lvl2/mobileconfigs/unsigned/com.apple.Terminal.mobileconfig
+Settings plist written to /Users/boone/macos_security/build/cis_lvl2/mobileconfigs/preferences/com.apple.Terminal.plist
+Configuration profile written to /Users/boone/macos_security/build/cis_lvl2/mobileconfigs/unsigned/com.apple.mobiledevice.passwordpolicy.mobileconfig
+Settings plist written to /Users/boone/macos_security/build/cis_lvl2/mobileconfigs/preferences/com.apple.mobiledevice.passwordpolicy.plist
+Configuration profile written to /Users/boone/macos_security/build/cis_lvl2/mobileconfigs/unsigned/com.apple.loginwindow.mobileconfig
+Settings plist written to /Users/boone/macos_security/build/cis_lvl2/mobileconfigs/preferences/com.apple.loginwindow.plist
+Configuration profile written to /Users/boone/macos_security/build/cis_lvl2/mobileconfigs/unsigned/com.apple.controlcenter.mobileconfig
+Settings plist written to /Users/boone/macos_security/build/cis_lvl2/mobileconfigs/preferences/com.apple.controlcenter.plist
+Configuration profile written to /Users/boone/macos_security/build/cis_lvl2/mobileconfigs/unsigned/com.apple.SubmitDiagInfo.mobileconfig
+Settings plist written to /Users/boone/macos_security/build/cis_lvl2/mobileconfigs/preferences/com.apple.SubmitDiagInfo.plist
+Configuration profile written to /Users/boone/macos_security/build/cis_lvl2/mobileconfigs/unsigned/com.apple.locationmenu.mobileconfig
+Settings plist written to /Users/boone/macos_security/build/cis_lvl2/mobileconfigs/preferences/com.apple.locationmenu.plist
+Configuration profile written to /Users/boone/macos_security/build/cis_lvl2/mobileconfigs/unsigned/com.apple.preferences.sharing.SharingPrefsExtension.mobileconfig
+Settings plist written to /Users/boone/macos_security/build/cis_lvl2/mobileconfigs/preferences/com.apple.preferences.sharing.SharingPrefsExtension.plist
+Configuration profile written to /Users/boone/macos_security/build/cis_lvl2/mobileconfigs/unsigned/com.apple.screensaver.mobileconfig
+Settings plist written to /Users/boone/macos_security/build/cis_lvl2/mobileconfigs/preferences/com.apple.screensaver.plist
+Configuration profile written to /Users/boone/macos_security/build/cis_lvl2/mobileconfigs/unsigned/com.apple.TimeMachine.mobileconfig
+Settings plist written to /Users/boone/macos_security/build/cis_lvl2/mobileconfigs/preferences/com.apple.TimeMachine.plist
+Configuration profile written to /Users/boone/macos_security/build/cis_lvl2/mobileconfigs/unsigned/com.apple.ManagedClient.preferences.mobileconfig
+Settings plist written to /Users/boone/macos_security/build/cis_lvl2/mobileconfigs/preferences/com.apple.timed.plist
+
+    CAUTION: These configuration profiles are intended for evaluation in a TEST
+    environment. Certain configuration profiles (Smartcards), when applied could
+    leave a system in a state where a user can no longer login with a password.
+    Please use caution when applying configuration settings to a system.
+
+    NOTE: If an MDM is already being leveraged, many of these profile settings may
+    be available through the vendor.
+    
+Generating compliance script...
+Finished building /Users/boone/macos_security/build/cis_lvl2/cis_lvl2_compliance.sh
+Generating HTML file from AsciiDoc...
+Generating PDF file from AsciiDoc...
