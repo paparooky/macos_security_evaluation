@@ -1,0 +1,5 @@
+rules/os/os_ess_installed.yaml:37:  - manual
+rules/os/os_filevault_authorized_users.yaml:34:  - manual
+rules/os/os_certificate_authority_trust.yaml:35:  - manual
+rules/pwpolicy/pwpolicy_temporary_or_emergency_accounts_disable.yaml:79:  - manual
+rules/sysprefs/sysprefs_wifi_disable.yaml:51:  - manual
